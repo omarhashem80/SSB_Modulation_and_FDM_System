@@ -104,7 +104,7 @@ processor.process(['input1.wav', 'input2.wav', 'input3.wav'], ['output1.wav', 'o
 
 ## 🤝 **Contributors**  
 
-[Omar Hashem](https://github.com/omarhashem80)
+[Omar Hashem](https://github.com/omarhashem80). 
 [Ahmed Mostafa](https://github.com/New-pro125)
 
 ---
