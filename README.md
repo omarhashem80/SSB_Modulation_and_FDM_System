@@ -42,8 +42,8 @@ The project demonstrates SSB modulation using MATLAB for signal recording and Py
 - **`SSB_Modulation_and_FDM_System.py`**: Contains the Python implementation for SSB modulation, demodulation, and FDM.  
 - **`input1.wav, input2.wav, input3.wav`**: Recorded audio files for processing.  
 - **`output1.wav, output2.wav, output3.wav`**: Demodulated signals after recovery.  
-- **`content/`**: Directory for input/output files.  
-- **`project_report.pdf`**: Comprehensive project report with explanations, results, and figures.  
+- **`content/`**: Directory for input files.  
+- **`Report.pdf`**: Comprehensive project report with explanations, results, and figures.  
 
 ---
 
@@ -104,7 +104,8 @@ processor.process(['input1.wav', 'input2.wav', 'input3.wav'], ['output1.wav', 'o
 
 ## 🤝 **Contributors**  
 
-[Omar Hashem](https://github.com/omarhashem80). 
+[Omar Hashem](https://github.com/omarhashem80)
+
 [Ahmed Mostafa](https://github.com/New-pro125)
 
 ---
